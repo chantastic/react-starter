@@ -9,6 +9,8 @@
   "author": "Michael Chan",
   "license": "MIT",
   "devDependencies": {
+    "babel-core": "^4.1.1",
+    "babel-loader": "^4.0.0",
     "webpack": "^1.5.3"
   }
 }
