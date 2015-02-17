@@ -4,6 +4,7 @@
   "description": "React.js starter",
   "main": "main.js",
   "scripts": {
+    "start": "webpack --progress --colors --watch",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Michael Chan",
